@@ -1,0 +1,8 @@
+{
+  "name": "Liquid Gold",
+  "description": "High-performance, high-resolution liquid gold simulation tool for realistic metallic fluid physics modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
